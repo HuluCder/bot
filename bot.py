@@ -3,7 +3,7 @@
 # vim:fileencoding=utf-8
 
 import telebot;
-bot = telebot.TeleBot('%925126748:AAGPjM_eMMPXpBLQ7a-EYDNwPYUNo40vHsc%');
+bot = telebot.TeleBot('925126748:AAGPjM_eMMPXpBLQ7a-EYDNwPYUNo40vHsc');
 
 @bot.message_handler(content_types=['text'])
 def get_text_messages(message):
