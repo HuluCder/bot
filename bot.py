@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# vim:fileencoding=utf-8
+
 import telebot;
 bot = telebot.TeleBot('%925126748:AAGPjM_eMMPXpBLQ7a-EYDNwPYUNo40vHsc%');
 
