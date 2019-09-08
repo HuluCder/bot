@@ -1,6 +1,6 @@
 # Настройки
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-updater = Updater(token='ВАШ API ТОКЕН') # Токен API к Telegram
+updater = Updater(token='925126748:AAGPjM_eMMPXpBLQ7a-EYDNwPYUNo40vHsc') # Токен API к Telegram
 dispatcher = updater.dispatcher
 # Обработка команд
 def startCommand(bot, update):
