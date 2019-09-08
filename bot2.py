@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# vim:fileencoding=utf-8
+
+
 # Настройки
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 updater = Updater(token='925126748:AAGPjM_eMMPXpBLQ7a-EYDNwPYUNo40vHsc') # Токен API к Telegram
